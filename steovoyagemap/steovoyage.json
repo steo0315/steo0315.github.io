@@ -1,4 +1,4 @@
 var usernames = {
-    "mapBoxToken": "Your Mapbox Token Goes Here",
-    "tumblrPage": "http://mycoolblog.tumblr.com"
+    "mapBoxToken": "pk.eyJ1Ijoic3RlbzAzMTUiLCJhIjoiY2lsNzBuMGplMDBlNHYybTJubjdoNnVqdSJ9.IlihnOOR10x4mCtAMITn7Q",
+    "tumblrPage": "http://steovoyage.tumblr.com"
 }
